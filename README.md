@@ -21,7 +21,4 @@ This project uses Zomato data to explore customer preferences and restaurant tre
 - **Spending Patterns**: Average spend for couples
 - **Offer Potential**: Restaurant types for targeted promotions
 
-## How to Run
-1. **Clone the repo**:
-   ```bash
-   git clone [your-repo-link]
+
